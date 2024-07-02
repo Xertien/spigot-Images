@@ -21,7 +21,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  * SOFTWARE.
  */
-package com.andavin.images.v1_20_R3;
+package com.andavin.images.v1_21_R1;
 
 import com.andavin.images.PacketListener.ImageListener;
 import com.andavin.reflect.FieldMatcher;
@@ -33,7 +33,7 @@ import net.minecraft.server.network.CommonListenerCookie;
 import net.minecraft.server.network.ServerGamePacketListenerImpl;
 import net.minecraft.world.phys.Vec3;
 import org.bukkit.Bukkit;
-import org.bukkit.craftbukkit.v1_20_R3.CraftServer;
+import org.bukkit.craftbukkit.v1_21_R1.CraftServer;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.Modifier;
